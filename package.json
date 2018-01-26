@@ -1,0 +1,25 @@
+{
+  "name": "ternary-toggle",
+  "version": "1.0.0",
+  "description": "Ternary toggle between two values or functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerspear/toggle.git"
+  },
+  "keywords": [
+    "ternary",
+    "toggle",
+    "true",
+    "false"
+  ],
+  "author": "spear.spencer@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerspear/toggle/issues"
+  },
+  "homepage": "https://github.com/spencerspear/toggle#readme"
+}
